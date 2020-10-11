@@ -1,5 +1,7 @@
 **Tip**: When opening .ipynb files if you get **`Sorry,... Reload?`** error in Github, use **[https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)**  
 
+I have created a crash course of my own. Ideally, Google's machine learning crash course, would be good.
+
 # Additional datasets
 * Classification and regression datasets at https://archive.ics.uci.edu/ml/datasets.php
 
@@ -8,6 +10,10 @@
 * HTML as well.
 
 --------------  
+
+## Activity 0. Create your dataset
+
+Create a table of IMDB or Goodreads.
 
 ## Activity 1. Python
 In this activity, the task is to learn how to use Google Colab and practice Python3. If you are doing Python programming for the first time, I suggest practicing Python at online platforms such as [codewars.org](https://www.codewars.com/) too.
