@@ -1,5 +1,7 @@
 **Tip**: When opening .ipynb files if you get **`Sorry,... Reload?`** error in Github, use **[https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)**  
 
+# Practice activities on feed-forward neural networks using Keras
+
 I have created a crash course of my own. Ideally, Google's machine learning crash course, would be good.
 
 # Additional datasets
