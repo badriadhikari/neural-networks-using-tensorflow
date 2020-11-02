@@ -1,4 +1,7 @@
 # Create your own movie dataset
+<p align="center">
+  <img src="imdb.jpg" height=500>
+</p>
 
 At least 101 movies that you have heard of.
 
@@ -15,6 +18,3 @@ At least 101 movies that you have heard of.
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 3 | 5 | 7 | 9 | 11 | 13 |
 
-<p align="center">
-  <img src="imdb.jpg" height=500>
-</p>
