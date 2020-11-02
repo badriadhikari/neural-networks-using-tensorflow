@@ -1,5 +1,5 @@
 # A crash course on neural networks using Keras
-This is mini crash course on feed-forward neural networks using Keras. It has 10 scaffolded activities that gradually lead to the final 10<sup>th</sup> Activity. If you already have some background in Tensorflow, Keras, and/or machine learning, you may be also be interested to take the [machine learning crash course](https://developers.google.com/machine-learning/crash-course) that Google recently released. You may also find it helpful to often refer to this [recipe for supervised learning development](https://docs.google.com/presentation/d/1mT4aHk0yx9dwxrfnr1WBSKYjEheYhf8R_x0NegrUsto/edit?usp=sharing).
+This is mini crash course on feed-forward neural networks using Keras. It has 10 scaffolded activities that gradually lead to the final 10<sup>th</sup> Activity. If you already have some background in Tensorflow, Keras, and/or machine learning, you may be also be interested to take the [machine learning crash course](https://developers.google.com/machine-learning/crash-course) that Google recently released. You may also find it helpful to often refer to this [recipe for supervised learning development](https://docs.google.com/presentation/d/1mT4aHk0yx9dwxrfnr1WBSKYjEheYhf8R_x0NegrUsto/edit?usp=sharing). 
 
 <p align="center">
       <img src="nn.jpg" height=300>
@@ -13,7 +13,7 @@ See [here](create-dataset.md). Alternatively, you can pick a dataset from the [U
 --------------  
 
 ## Activity 1. Practice Python3
-In this activity, the task is to learn how to use Google Colab and practice Python3. If you are doing Python programming for the first time, please practice Python3 at online platforms such as [codewars.org](https://www.codewars.com/) too. If you fear learning new things (including Python3), you may take [this](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) world's most popular online course.
+In this activity, the task is to learn how to use Google Colab and practice Python3. If you are doing Python programming for the first time, please practice Python3 at online platforms such as [codewars.org](https://www.codewars.com/) too. If you fear learning new things (including Python3), you may take [this](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) world's most popular online course. If you already have a Python and Numpy background please practice these: 1) [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/), 2) [100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb) by Nicolas P. Rougier.
 * Lectures: [Google Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8) and [Python3](https://www.youtube.com/watch?v=V42qfAPybp8)
 * Notebooks: [Python3](../notebooks/python.ipynb)   
 
