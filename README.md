@@ -1,5 +1,5 @@
 # A crash course on neural networks using Keras
-This is mini crash course on feed-forward neural networks using Keras. It has 10 scaffolded activities that gradually lead to the final 10<sup>th</sup> Activity. If you already have some background in Tensorflow, Keras, and/or machine learning, you may be also be interested to take the [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) that Google recently released.
+This is mini crash course on feed-forward neural networks using Keras. It has 10 scaffolded activities that gradually lead to the final 10<sup>th</sup> Activity. If you already have some background in Tensorflow, Keras, and/or machine learning, you may be also be interested to take the [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) that Google recently released. You may also find it helpful to often refer to this [Recipe for supervised learning development](https://docs.google.com/presentation/d/1mT4aHk0yx9dwxrfnr1WBSKYjEheYhf8R_x0NegrUsto/edit?usp=sharing).
 
 <p align="center">
       <img src="nn.jpg" height=300>
