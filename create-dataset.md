@@ -1,5 +1,5 @@
 # Create your own movie dataset
-<p align="center">
+<p align="left">
   <img src="imdb.jpg" height=500>
 </p>
 
