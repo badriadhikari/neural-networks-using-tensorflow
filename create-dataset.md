@@ -7,3 +7,8 @@
 1. Number of reviews
 1. Number of critic reviews
 1. Rating
+
+
+<p align="center">
+  <img src="imdb.png" height=400>
+</p>
