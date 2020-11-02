@@ -13,7 +13,7 @@ See [here](create-dataset.md). Alternatively, you can pick a dataset from the [U
 --------------  
 
 ## Activity 1. Practice Python3
-In this activity, the task is to learn how to use Google Colab and practice Python3. If you are doing Python programming for the first time, please practice Python3 at online platforms such as [codewars.org](https://www.codewars.com/) too. If you fear learning new things (including Python3), you may take [this](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) world's most popular online course. If you already have a Python and Numpy background please practice these: 1) [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/), 2) [100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb) by Nicolas P. Rougier.
+In this activity, the task is to learn how to use Google Colab and practice Python3. If you are doing Python programming for the first time, please practice Python3 at online platforms such as [codewars.org](https://www.codewars.com/) too. If you fear learning new things (including Python3), you may take [this](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) world's most popular online course. 
 * Lectures: [Google Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8) and [Python3](https://www.youtube.com/watch?v=V42qfAPybp8)
 * Notebooks: [Python3](../notebooks/python.ipynb)   
 
