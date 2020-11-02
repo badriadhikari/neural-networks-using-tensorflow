@@ -1,4 +1,6 @@
-# Create your own movie reviews dataset
+# Create your own movie dataset
+
+At least 101 movies that you have heard of.
 
 ## Features
 1. Duration
