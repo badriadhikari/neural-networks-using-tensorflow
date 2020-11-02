@@ -1,5 +1,3 @@
-**Tip**: When opening .ipynb files if you get **`Sorry,... Reload?`** error in Github, use **[https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)**  
-
 # A crash course on feed-forward neural networks using Keras
 Welcome to a crash course on feed-forward neural networks using Keras. This course has 10 scaffolded activities that gradually lead to the final 10th Activity. If you already have some background in Tensorflow, Keras, and/or machine learning, you may be also be interested to take the [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) that Google recently released.
 
@@ -13,7 +11,8 @@ See [here](create-dataset.md). Alternatively, you can pick a dataset from the [U
 ## Activity 1. Practice Python3
 In this activity, the task is to learn how to use Google Colab and practice Python3. If you are doing Python programming for the first time, I suggest practicing Python at online platforms such as [codewars.org](https://www.codewars.com/) too.
 * Lectures: [Google Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8) and [Python3](https://www.youtube.com/watch?v=V42qfAPybp8)
-* Notebooks: [Python3](../notebooks/python.ipynb)  
+* Notebooks: [Python3](../notebooks/python.ipynb) 
+**Tip**: When opening .ipynb files if you get **`Sorry,... Reload?`** error in Github, use **[https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)**  
 
 ## Activity 2. Practice Numpy, Matplotlib, and Pandas
 In this activity, the task is to practice Numpy, Matplotlib, Plotly, Pandas for basic data analysis, and techniques of data cleaning and normalization.
