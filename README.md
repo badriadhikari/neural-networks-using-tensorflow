@@ -71,12 +71,11 @@ P = model.predict(XVALID)
 accuracy = model.evaluate(XVALID, YVALID)
 ```
 
-What to submit?  
-* A link to your notebook where you have completed the tasks. The notebook should also have answers to the following questions: 
-  1. Does your model perform better (in terms of accuracy) on the training set or validation set? Is this a problem? How to avoid this problem?
-  1. Why can over training be a problem?
-  1. What is the difference between generalization, overfitting, and underfitting?
-  1. Why should you not normalize XVALID separately, i.e. why should we use the parameters from XTRAIN to normalize XVALID?  
+In the notebook where you practice, also answer the following: 
+1. Does your model perform better (in terms of accuracy) on the training set or validation set? Is this a problem? How to avoid this problem?
+1. Why can over training be a problem?
+1. What is the difference between generalization, overfitting, and underfitting?
+1. Why should you not normalize XVALID separately, i.e. why should we use the parameters from XTRAIN to normalize XVALID?  
 
 ## Activity 7. Learning curves
 This activity assumes that you have successfully completed all previous activities. It also requires some focus. Learning curves are a key to debug and diagnose a model's performance. The goal in this activity is to plot learning curves and to interpret various learning curves. For a regression dataset of your choice, the first step is to shuffle the dataset. The next step is to split the dataset into the four arrays: XTRAIN, YTRAIN, XVALID, and YVALID. The next step is to train a neural network model using `model.fit()`. However, this time, XVALID and YVALID will also be passed as arguments to the `model.fit()` method. This is so when we call the method, it can evaluate the model on the validation set at the end of each epoch (see code block below). It is extremely important to understand that the `model.fit()` method does NOT use the validation dataset to perform the learning, it is only to evaluate the model after each epoch. When calling the `model.fit()` method we can also save its output in a variable, usually named `history`. This variable can be used to plot learning curves (see code block below). The task in this activity is to plot many learning curves in various scenarios. In particular, it is of intererest to observe and analyze how the learning plots look like various settings. The following article discusses learning curves in more detail.
@@ -97,14 +96,13 @@ plt.legend(['training data', 'validation data'], loc='lower right')
 plt.show()
 ```
 
-What to submit?  
-* A link to your notebook where you produce the learning curves that represent the following cases:
-   1. the validation set is too small relative to the training set - for example, only 1% or 2% of the total rows of data.
-   1. the training set is too small compared to the validation sat - for example, only 1% or 2% of the total rows of data.
-   1. a good learning curve (practically good)
-   1. an overfitting model
-   1. a model that shows that further training is required
-   1. an underfit model that does not have sufficient capacity (also may imply that the data itself is difficult)
+Produce learning curves that represent the following cases:
+1. the validation set is too small relative to the training set - for example, only 1% or 2% of the total rows of data.
+1. the training set is too small compared to the validation sat - for example, only 1% or 2% of the total rows of data.
+1. a good learning curve (practically good)
+1. an overfitting model
+1. a model that shows that further training is required
+1. an underfit model that does not have sufficient capacity (also may imply that the data itself is difficult)
 
 ## Activity 8. Fine-tuning hyper-parameters of your model
 In this activity, the task is to learn how to design and train a model that does well on the unseen (validation) daset. The weights and biases of a neural network model are its parameters. The parameters such as the number of layers of neurons, numbers of neurons in each layer, number of epochs, batch size, activation functions, choice of optimizer, choice of loss function, etc. are the hyperparameters of a model. When training a model for a new dataset an extremely important question is - what combinations of hyperameters yield the maximum accuracy on the validation set? Remember, when playing with activation functions, the activation of the last layer should not change - it should always be sigmoid for binary classification and ReLU or linear for regression. The task is in this activity is to try as many hyperparameters as possible to obtain the highest possible accuracy on the validation set. For a **classification dataset of your choice**, the first step is to create a notebook where you can train the model using the training set and evaluate on the validation set. Then, the objective is to find the optimal (best) hyper-parameters that maximize the accuracy (or minimize MAE) on the validation set. 
@@ -163,7 +161,7 @@ Assumption: You already know (tentatively) what hyperparameters are good for you
    b. Y-axis is accuracy or MAE of the validation set  
    <img src="feature_removal.png" align="middle" width="550" border="2"/>  
 
-# What to submit?
+### What to submit?
 * An HTML version of your Colab notebook.
 * A small report with results on the "Iterative feature removal & selection".
 
