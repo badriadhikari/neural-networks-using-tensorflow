@@ -9,6 +9,10 @@
 1. Rating
 
 
+| Name | Duration | ReleaseYear | NumberOfRatings | NumberOfReviews | NumberOfCriticReviews | Rating |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | 3 | 5 | 7 | 9 | 11 | 13 |
+
 <p align="center">
   <img src="imdb.jpg" height=500>
 </p>
