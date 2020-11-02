@@ -4,6 +4,7 @@ This is mini crash course on feed-forward neural networks using Keras. It has 10
 <p align="center">
       <img src="nn.jpg" height=300>
 </p>
+
 --------------  
 
 ## The essential: Create your own IMDB movie dataset
