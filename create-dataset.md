@@ -10,5 +10,5 @@
 
 
 <p align="center">
-  <img src="imdb.png" height=500>
+  <img src="imdb.jpg" height=500>
 </p>
