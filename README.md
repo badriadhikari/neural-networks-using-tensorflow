@@ -1,4 +1,4 @@
-# A crash course on feed-forward neural networks using Keras
+# A crash course on networks using Keras
 Welcome to a crash course on feed-forward neural networks using Keras. This course has 10 scaffolded activities that gradually lead to the final 10th Activity. If you already have some background in Tensorflow, Keras, and/or machine learning, you may be also be interested to take the [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) that Google recently released.
 
 --------------  
