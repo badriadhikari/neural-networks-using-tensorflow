@@ -25,11 +25,11 @@ In this activity, the task is to practice Numpy, Matplotlib, Plotly, Pandas for 
 * Notebooks: [Numpy](../notebooks/numpy.ipynb), [Matplotlib & Plotly](../notebooks/matplotlib_plotly.ipynb), [Pandas](../notebooks/pandas.ipynb), [Data cleaning](https://youtu.be/0bj6KbEUJ_o), and [Data normalization](https://youtu.be/Tu8Dl3zorgg)
 In this activity, the goal is to learn how to use Pandas for basic data analysis. After learning the basics of Pandas from the resources below, the task is to repeat the steps for a different dataset of your choice, on a dataset other than the 'pima-diabetes' dataset.
 
-## Activity 3. Univariate linear regression (Chapter 18)
+## Activity 3. Univariate linear regression
 In this activity, the goal is to practice univariate linear regression. When selecting variables (columns) for performing linear regression, it is important to choose continuous variables and not binary variables. Before feeding the data to the regression model, it is often important to normalize/standardarize your input dataset. You may need to normalize your data for regression to work. Here, the task is to perform univariate linear regression on a dataset of your choice (other than the 'pima-diabetes' dataset).  
 * Lectures: [Univariate Linear Regression](https://youtu.be/yH7AUm2EHTM)
 
-## Activity 4. Logistic regression (Chapter 18)
+## Activity 4. Logistic regression
 In this activity, the goal is to practice logistic regression on a dataset with more than one input variables. When selecting variables (columns) for performing logistic regression, it is important to select a binary variable (i.e. the values of this variable must be 0 or 1, nothing else) as the output variable. Before feeding the data to the model, it is often important to normalize/standardarize your input dataset. You may need to normalize your data for classification to work. Here, the task is to perform logistic regression on a dataset of your choice (other than the 'pima-diabetes' dataset). 
 * Lectures: [Logistic regression](https://youtu.be/KEYgPOcqmsw) and [Data normalization](https://youtu.be/Tu8Dl3zorgg)
 
