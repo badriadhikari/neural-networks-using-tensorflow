@@ -1,6 +1,6 @@
 # How to create your own movie dataset?
 
-For this tutorial, you will need to find at least 100 movies at [IMDB](https://www.imdb.com/). You can choose the movies that you have already watched or any other movies that you have not yet watched (or would like to watch). For each movie you will need to note certain features (properties) of the movie (see below for the list of features). The result 
+For this tutorial, you will need to find at least 100 movies at [IMDB](https://www.imdb.com/). You can choose the movies that you have already watched or any other movies that you have not yet watched (or would like to watch). For each movie you will need to note certain features (properties) of the movie (see below for the list of features). You can create a table of all your movies and save in a Google Sheet or a Microsoft Excel file and export a `.csv` file. [Here](./my_imdb.csv) is an example.
 
 
 <p align="left">
