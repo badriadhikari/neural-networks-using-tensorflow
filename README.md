@@ -1,5 +1,5 @@
 # A hands-on introduction to feed-forward neural networks using Keras
-This is mini crash course on feed-forward neural networks using Keras. It contains 10 scaffolded activities. If you already have some background in Tensorflow, Keras, and/or machine learning, you may also be interested to take the [machine learning crash course](https://developers.google.com/machine-learning/crash-course) that Google recently released. You may also find it helpful to often refer to this [recipe for supervised learning development](https://docs.google.com/presentation/d/1mT4aHk0yx9dwxrfnr1WBSKYjEheYhf8R_x0NegrUsto/edit?usp=sharing). 
+This is a mini crash course on using Keras to develop feed-forward neural networks. It contains 10 scaffolded activities. If you already have some background in Tensorflow, Keras, and/or machine learning, you may also be interested to take the [machine learning crash course](https://developers.google.com/machine-learning/crash-course) that Google recently released. You may also find it helpful to often refer to this [recipe for supervised learning development](https://docs.google.com/presentation/d/1mT4aHk0yx9dwxrfnr1WBSKYjEheYhf8R_x0NegrUsto/edit?usp=sharing). 
 
 <p align="center">
       <img src="nn.jpg" height=300>
@@ -21,9 +21,8 @@ In this activity, the task is to learn how to use Google Colab and practice Pyth
 
 ## Activity 2. Practice Numpy, Matplotlib, and Pandas
 In this activity, the task is to practice Numpy, Matplotlib, Plotly, Pandas for basic data analysis, and techniques of data cleaning and normalization.
-* Lectures: [Numpy](https://www.youtube.com/watch?v=Omz8P8n-5gY) and [Matplotlib & Plotly](https://youtu.be/aIzkkjRzVdA)
-* Notebooks: [Numpy](../notebooks/numpy.ipynb), [Matplotlib & Plotly](../notebooks/matplotlib_plotly.ipynb), [Pandas](../notebooks/pandas.ipynb), [Data cleaning](https://youtu.be/0bj6KbEUJ_o), and [Data normalization](https://youtu.be/Tu8Dl3zorgg)
-In this activity, the goal is to learn how to use Pandas for basic data analysis. After learning the basics of Pandas from the resources below, the task is to repeat the steps for a different dataset of your choice, on a dataset other than the 'pima-diabetes' dataset.
+* Lectures: [Numpy](https://www.youtube.com/watch?v=Omz8P8n-5gY), [Matplotlib & Plotly](https://youtu.be/aIzkkjRzVdA), [Data normalization](https://youtu.be/Tu8Dl3zorgg), and [Data cleaning](https://youtu.be/0bj6KbEUJ_o)
+* Notebooks: [Numpy](../notebooks/numpy.ipynb), [Matplotlib & Plotly](../notebooks/matplotlib_plotly.ipynb), and [Pandas](../notebooks/pandas.ipynb)
 
 ## Activity 3. Univariate linear regression
 In this activity, the goal is to practice univariate linear regression. When selecting variables (columns) for performing linear regression, it is important to choose continuous variables and not binary variables. Before feeding the data to the regression model, it is often important to normalize/standardarize your input dataset. You may need to normalize your data for regression to work. Here, the task is to perform univariate linear regression on a dataset of your choice (other than the 'pima-diabetes' dataset).  
