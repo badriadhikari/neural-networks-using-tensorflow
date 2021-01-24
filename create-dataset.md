@@ -18,3 +18,4 @@ For this tutorial, you will need to find at least 100 movies at [IMDB](https://w
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 3 | 5 | 7 | 9 | 11 | 13 |
 
+To convert this dataset into a classification problem, you can sort the rows by the last column (i.e., the Rating column) and convert the first half of the numbers to a 0 (zero) and the bottom half to a 1 (one). This way, your output column (rating) will be a binary variable.
