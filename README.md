@@ -15,14 +15,14 @@ See [here](create-dataset.md). Alternatively, you can pick a dataset from the [U
 ## Activity 1. Practice Python3
 In this activity, the task is to learn how to use Google Colab and practice Python3. If you are doing Python programming for the first time, please practice Python3 at online platforms such as [codewars.org](https://www.codewars.com/) too. If you fear learning new things (including Python3), you may take [this](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) world's most popular online course. 
 * Lectures: [Google Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8) and [Python3](https://www.youtube.com/watch?v=V42qfAPybp8)
-* Notebooks: [Python3](../notebooks/python.ipynb)   
+* Notebooks: [Python3](./notebooks/python.ipynb)   
 
 **Tip**: When opening .ipynb files if you get **`Sorry,... Reload?`** error in Github, use **[https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)**  
 
 ## Activity 2. Practice Numpy, Matplotlib, and Pandas
 In this activity, the task is to practice Numpy, Matplotlib, Plotly, Pandas for basic data analysis, and techniques of data cleaning and normalization.
 * Lectures: [Numpy](https://www.youtube.com/watch?v=Omz8P8n-5gY), [Matplotlib & Plotly](https://youtu.be/aIzkkjRzVdA), [Data normalization](https://youtu.be/Tu8Dl3zorgg), and [Data cleaning](https://youtu.be/0bj6KbEUJ_o)
-* Notebooks: [Numpy](../notebooks/numpy.ipynb), [Matplotlib & Plotly](../notebooks/matplotlib_plotly.ipynb), and [Pandas](../notebooks/pandas.ipynb)
+* Notebooks: [Numpy](./notebooks/numpy.ipynb), [Matplotlib & Plotly](./notebooks/matplotlib_plotly.ipynb), and [Pandas](./notebooks/pandas.ipynb)
 
 ## Activity 3. Univariate linear regression
 In this activity, the goal is to practice univariate linear regression. When selecting variables (columns) for performing linear regression, it is important to choose continuous variables and not binary variables. Before feeding the data to the regression model, it is often important to normalize/standardarize your input dataset. You may need to normalize your data for regression to work. Here, the task is to perform univariate linear regression on a dataset of your choice (other than the 'pima-diabetes' dataset).  
