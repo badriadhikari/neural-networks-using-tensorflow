@@ -94,7 +94,7 @@ history = model.fit(XTRAIN, YTRAIN, validation_data = (XVALID, YVALID), verbose 
 # Check what's in the history
 print(history.params)
 # Plot the learning curves (loss/accuracy/MAE)
-plt.plot(history.history['loss']) # replace with accuracy/MAE
+plt.plot(history.history['accuracy']) # replace with accuracy/MAE
 plt.plot(history.history['val_accuracy']) # replace with val_accuracy, etc.
 plt.ylabel('Accuracy')
 plt.xlabel('epoch')
