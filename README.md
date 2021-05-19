@@ -7,7 +7,7 @@ This is a mini crash course on using Keras to develop feed-forward neural networ
 
 --------------  
 
-## The essential: Create your own IMDB movie dataset
+## Create your own IMDB movie dataset
 See [here](create-dataset.md). Alternatively, you can pick a dataset from the [UCI ML database](https://archive.ics.uci.edu/ml/datasets.php).
 
 --------------  
