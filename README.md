@@ -15,7 +15,8 @@ See [here](create-dataset.md). Alternatively, you can pick a dataset from the [U
 ## Activity 1. Practice Python3
 In this activity, the task is to learn how to use Google Colab and practice Python3. If you are doing Python programming for the first time, please practice Python3 at online platforms such as [codewars.org](https://www.codewars.com/) too. If you fear learning new things (including Python3), you may take [this](https://www.coursera.org/learn/learning-how-to-learn/home/welcome) world's most popular online course. 
 * Lectures: [Google Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8) and [Python3](https://www.youtube.com/watch?v=V42qfAPybp8)
-* Notebooks: [Python3](./notebooks/python.ipynb)   
+* Notebooks: [Python3](./notebooks/python.ipynb)
+* Alternatives to Google Colab: [Kaggle Notebooks](https://www.kaggle.com/code), [Local Installation](https://www.anaconda.com/products/individual) 
 
 **Tip**: When opening .ipynb files if you get **`Sorry,... Reload?`** error in Github, use **[https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)**  
 
